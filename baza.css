@@ -85,38 +85,43 @@
 }
 .intro_main-text {
     color: #f5f5f5;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
-    margin: 0 0 0 0;
+    margin: 8px 8px 8px 8px;
 }
 .col {
-    background-color: yellow;
+    background-color: #fdfd2d;
 }
-.content-section__subtitle {
+.content-section__subtitle{
     color: black;
     display: flex;
     justify-content: end;
     margin: 40px 20px 0px 20px;
-    font-size: 16px;
+    font-size: 25px;
     padding: 40px 0 0 0;
-    
+
 }
 .content-section__subtitle1 {
     display: flex;
     justify-content: flex-start;
     margin: 0px 20px 0px;
 }
+.ryll {
+    margin: 10px 10px 10px 10px;
+}
 .li1{
-    margin: 10px 0 20px 0;
-    padding: 0 0 40px 0;
+    margin: 5px 5px 5px 5px;
+    padding: 0 0 10px 0;
+    font-size: 19px;
 }
 .l1{
     margin: 10px 0 20px 0;
 }
 .p{
     margin: 32px 0 32px 0;
+    font-size: 22px;
 }
-.main1{
+.proect{
     background-color: black;
 }
 .section{
@@ -142,7 +147,7 @@
 .section2{
     margin: 0 20px 40px 20px;
 }
-.main3{
+.kaktyc{
     margin: 0 20px 0 20px;
     background-color: #343434;
     border-radius: 30px;
@@ -160,14 +165,16 @@
     margin: 0 20px 8px 20px;
     color: white;
 }
-.ul{
+.oil{
     margin: 0 20px 20px 20px;
     color: white;
     padding: 0 0 20px 0;
+    font-size: 20px;
 }
-.main4{
-    background-color: yellow;
+.vovorn{
+    background-color: #fdfd2d;
     margin: 32px 20px 0 20px;
+    padding: 5px;
     border-radius: 30px;
 }
 .p4{
@@ -185,7 +192,7 @@
     width: 105px;
     margin: 20px 20px 8px 20px;
 }
-.main5{
+.pass{
     margin: 32px 20px 40px 20px;
     background-color: #343434;
     border-radius: 30px;
@@ -204,13 +211,13 @@
     padding: 0 0 20px;
 }
 .pp {
-    color: #FEE42A;
+    color: #f8e130;
     margin: 0px 0;
   padding: 0;
   height: 0;
-    border-top: 2px solid #FEE42A;
+    border-top: 2px solid #f8e130;
 }
-.main6{
+.proeckt{
     background-color: black;
 }
 .h5{
